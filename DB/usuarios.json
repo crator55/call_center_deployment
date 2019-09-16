@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5d50ade9b4ee7339e8af69ae"},"nombre":"Admin","password":"$2b$12$aRF8SV0Mi3aC3YGnNaA7zOHmyuoBBaN43NDJHk4qe2xNqrlFpBhDa","__v":0}
+{"_id":{"$oid":"5d50d482ee37e503e03cae05"},"nombre":"admin","password":"$2b$12$0Tv0F1Hk4u/E.pKka.6rXOHDFRzu5x.8jrYUPG2398WD0nGKINnYa","__v":0}
+{"_id":{"$oid":"5d58a153275e48095c7a2b50"},"nombre":"admin","password":"$2b$12$POm2E1pptnka1wrIjSfoi.xuM58d77CU/3A0nZwbCNPrRbABGL9kC","__v":0}
+{"_id":{"$oid":"5d5f3c844f62cc1a70c5d949"},"nombre":"admin1","password":"$2b$12$p11e8N2JL3KvK/bA8t/HGuxs9l9lrz0R7qZEjAb5yrC7Hq/9zM3qC","__v":0}
